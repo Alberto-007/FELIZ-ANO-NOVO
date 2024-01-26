@@ -211,16 +211,16 @@ body {
       top: 100%;
   }
   25% {
-      top: 50%;
+      top: 60%;
   }
   50% {
-      top: -25%;
+      top: -20%;
   }
   75% {
-      top: -50%;
+      top: -55%;
   }
   100% {
-      top: -50%;
+      top: -60%;
   }
 }
 
@@ -275,6 +275,12 @@ body {
 
 #firework3 {
   left: 80%;
+  top: 15%;
+  transform: scale(1.5);
+}
+
+#firework4 {
+  left: 35%;
   top: 15%;
   transform: scale(1.5);
 }

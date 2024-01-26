@@ -57,6 +57,20 @@ function App() {
         <div class="cracker"></div>
         <div class="cracker"></div>
     </div>
+    <div class="firework" id="firework4">
+        <div class="cracker"></div>
+        <div class="cracker"></div>
+        <div class="cracker"></div>
+        <div class="cracker"></div>
+        <div class="cracker"></div>
+        <div class="cracker"></div>
+        <div class="cracker"></div>
+        <div class="cracker"></div>
+        <div class="cracker"></div>
+        <div class="cracker"></div>
+        <div class="cracker"></div>
+        <div class="cracker"></div>
+    </div>
     </>
   )
 }
